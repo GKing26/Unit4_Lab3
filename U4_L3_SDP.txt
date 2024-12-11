@@ -1,0 +1,5 @@
+>--- Question 1
+     The way it is reversed is the same. By using the stack to output the last thing that was in it, this flips whatever is put into it because the last thing becomes the first thing to be printed out.
+
+>--- Question 2
+     The information form the file needs to be pulled from the text file and then it needs to be cleaned out, I do not need to worry about the breaks because I noticed that it breaks how it is written to the file, it is still backwards, however it does weird things with the arrangement of the words and which line they go on. You split everything by spaces so there are individual words, this means that the letters are not reversed but the words.
